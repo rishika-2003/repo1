@@ -1,6 +1,5 @@
 this is my first line in a1.txt
 2nd line
-3rd line
 
 
 
@@ -10,3 +9,5 @@ added locally
 text locally
 
 mohan added
+rishika
+honey
